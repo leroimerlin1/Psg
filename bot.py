@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, WebAppI
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ================== CONFIGURATION ==================
-TOKEN = "TON_TOKEN_ICI"  # Remplace par le token de BotFather
+TOKEN = "8680201434:AAE6M0TtaQtMXEUnzPkUd2q-CpJY5k-P0sA"  #Remplace par le token de BotFather
 
 # URL de ta Mini App (boutique)
 MINI_APP_URL = "https://leroimerlin1.github.io/Psg/"  # ← CHANGE ÇA avec l'URL réelle de ta mini app
