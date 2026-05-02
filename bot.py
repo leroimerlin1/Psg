@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 TOKEN = "TON_TOKEN_ICI"  # Remplace par le token de BotFather
 
 # URL de ta Mini App (boutique)
-MINI_APP_URL = "https://ton-domaine.com"  # ← CHANGE ÇA avec l'URL réelle de ta mini app
+MINI_APP_URL = "https://leroimerlin1.github.io/Psg/"  # ← CHANGE ÇA avec l'URL réelle de ta mini app
 
 # ===================================================
 
